@@ -1,0 +1,51 @@
+.Header {
+	font-family: arial;
+  padding: 1rem 2rem;
+  padding-left: 18px;
+  background-color: #5297f8;
+  border-bottom: 1px solid rgba(189, 189, 192, 0.2);
+}
+.Header__img {
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+}
+.Header__name {
+	margin-top: 0px;
+	margin-bottom: 0px;
+  	color: #fff;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+.Header__status {
+	margin-top: 5px;
+	margin-bottom: 0px;
+	font-size: 14px;
+	display: inline-block;
+	margin-left: 10px;
+}
+.Header__pgroup {
+	margin-top: -50px;
+	width: 40%;
+	display: inline-block;
+	margin-left: 10px;
+}
+.Header__status_round {
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	background-color: yellow;
+	display: inline-block;
+}
+.Header__icons {
+	display: inline-block;
+}
+.H_icon {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin-left: 10px;
+}
+.dot_icon {
+	width: 15px;
+}

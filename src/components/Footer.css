@@ -1,0 +1,15 @@
+.Footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+.icon_div {
+	display: inline-block;
+}
+
+.icon_div1 {
+	display: inline-block;
+	width: 40px;
+	margin-left: 25px;
+}
